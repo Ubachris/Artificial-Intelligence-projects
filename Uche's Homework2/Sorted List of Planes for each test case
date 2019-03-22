@@ -1,0 +1,62 @@
+Sorted List of Planes for each test case
+
+1)	5 2 5
+	4	
+	Initial List of planes in sorted order:
+Plane 1 => R: 10 M: 15 S: 10 O: 20 C: 50 land time: 0 takeoff time: 0
+Plane 2 => R: 20 M: 15 S: 25 O: 75 C: 75 land time: 0 takeoff time: 0
+Plane 3 => R: 25 M: 35 S: 60 O: 65 C: 80 land time: 0 takeoff time: 0
+Plane 4 => R: 30 M: 30 S: 60 O: 75 C: 75 land time: 0 takeoff time: 0
+
+
+2)	3 2 3
+	4
+	Initial List of planes in sorted order:
+Plane 1 => R: 10 M: 75 S: 60 O: 80 C: 80 land time: 0 takeoff time: 0
+Plane 2 => R: 15 M: 30 S: 65 O: 70 C: 65 land time: 0 takeoff time: 0
+Plane 3 => R: 50 M: 15 S: 10 O: 15 C: 80 land time: 0 takeoff time: 0
+Plane 4 => R: 65 M: 40 S: 65 O: 70 C: 75 land time: 0 takeoff time: 0
+
+
+3)	7 5 3 
+	5
+	Initial List of planes in sorted order:
+Plane 1 => R: 10 M: 80 S: 20 O: 40 C: 65 land time: 0 takeoff time: 0
+Plane 2 => R: 15 M: 100 S: 30 O: 60 C: 90 land time: 0 takeoff time: 0
+Plane 3 => R: 70 M: 60 S: 65 O: 70 C: 95 land time: 0 takeoff time: 0
+Plane 4 => R: 85 M: 75 S: 65 O: 95 C: 85 land time: 0 takeoff time: 0
+Plane 5 => R: 100 M: 100 S: 70 O: 100 C: 70 land time: 0 takeoff time: 0
+
+
+4)	5 12 5
+	25
+  Initial List of planes in sorted order:
+Plane 1 => R: 7 M: 59 S: 89 O: 59 C: 209 land time: 0 takeoff time: 0
+Plane 2 => R: 13 M: 5 S: 85 O: 8 C: 205 land time: 0 takeoff time: 0
+Plane 3 => R: 30 M: 54 S: 33 O: 56 C: 153 land time: 0 takeoff time: 0
+Plane 4 => R: 32 M: 56 S: 82 O: 36 C: 202 land time: 0 takeoff time: 0
+Plane 5 => R: 41 M: 2 S: 107 O: 59 C: 227 land time: 0 takeoff time: 0
+Plane 6 => R: 41 M: 58 S: 91 O: 37 C: 211 land time: 0 takeoff time: 0
+Plane 7 => R: 45 M: 12 S: 115 O: 49 C: 235 land time: 0 takeoff time: 0
+Plane 8 => R: 49 M: 13 S: 27 O: 58 C: 147 land time: 0 takeoff time: 0
+Plane 9 => R: 50 M: 15 S: 5 O: 21 C: 125 land time: 0 takeoff time: 0
+Plane 10 => R: 59 M: 9 S: 59 O: 27 C: 179 land time: 0 takeoff time: 0
+Plane 11 => R: 68 M: 5 S: 31 O: 51 C: 151 land time: 0 takeoff time: 0
+Plane 12 => R: 72 M: 10 S: 45 O: 59 C: 165 land time: 0 takeoff time: 0
+Plane 13 => R: 75 M: 4 S: 91 O: 25 C: 211 land time: 0 takeoff time: 0
+Plane 14 => R: 76 M: 43 S: 84 O: 13 C: 204 land time: 0 takeoff time: 0
+Plane 15 => R: 85 M: 18 S: 77 O: 26 C: 197 land time: 0 takeoff time: 0
+Plane 16 => R: 86 M: 16 S: 38 O: 38 C: 158 land time: 0 takeoff time: 0
+Plane 17 => R: 98 M: 50 S: 76 O: 58 C: 196 land time: 0 takeoff time: 0
+Plane 18 => R: 100 M: 13 S: 8 O: 21 C: 128 land time: 0 takeoff time: 0
+Plane 19 => R: 103 M: 33 S: 23 O: 13 C: 143 land time: 0 takeoff time: 0
+Plane 20 => R: 107 M: 31 S: 72 O: 4 C: 192 land time: 0 takeoff time: 0
+Plane 21 => R: 120 M: 46 S: 85 O: 11 C: 205 land time: 0 takeoff time: 0
+Plane 22 => R: 120 M: 21 S: 36 O: 25 C: 156 land time: 0 takeoff time: 0
+Plane 23 => R: 140 M: 40 S: 111 O: 29 C: 231 land time: 0 takeoff time: 0
+Plane 24 => R: 155 M: 30 S: 74 O: 48 C: 194 land time: 0 takeoff time: 0
+Plane 25 => R: 163 M: 22 S: 72 O: 2 C: 192 land time: 0 takeoff time: 0
+
+
+
+
